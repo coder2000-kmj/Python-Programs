@@ -1,3 +1,8 @@
+'''
+This is a program to print prime numbers starting from a number which will be given by the user
+and the number of prime numbers to be printed will also be specified by the user
+'''
+
 def isprime(n,i=2):
     if n<=2:
         return True if n==2 else False
