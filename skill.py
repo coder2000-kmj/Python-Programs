@@ -1,3 +1,4 @@
+#day 1 and 2
 '''
 An IT company going to hire for following technology: java, python, script
 of 20 people for the project among which 3 people were already booked in the odd positions
