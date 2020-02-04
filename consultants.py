@@ -14,7 +14,7 @@ class consultant:
         return self.__skill
     def setExp(self,exp):
         self.__exp=exp
-    def getRam(self):
+    def getExp(self):
         return self.__exp
     def __str__(self):
         return self.__name+" "+str(self.__skill)+" "+str(self.__exp)
