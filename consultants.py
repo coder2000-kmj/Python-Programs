@@ -10,7 +10,7 @@ class consultant:
         return self.__name
     def setSkill(self,skill):
         self.__skill=skill
-    def getPrice(self):
+    def getSkill(self):
         return self.__skill
     def setExp(self,exp):
         self.__exp=exp
